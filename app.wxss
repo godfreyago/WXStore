@@ -1,0 +1,6 @@
+.view-section {
+  padding: 10px; 
+  background-color: #fffff0;
+  margin: 10px;
+  fond-size:16px;
+}
